@@ -11,6 +11,11 @@ body {
   background-position: top;
 }
 
+#header-right {
+  background: rgb(33,37,41);
+  background: linear-gradient(90deg, rgba(33,37,41,0) 5%, rgba(33,37,41,0.6) 25%, rgba(33,37,41,0.3) 50%, rgba(33,37,41,0) 85%); 
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
